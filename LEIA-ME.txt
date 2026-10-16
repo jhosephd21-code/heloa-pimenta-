@@ -1,0 +1,17 @@
+PORTFÓLIO — HELOÁ PIMENTA & JOÃO VICTOR MELO
+
+Arquivos:
+- index.html: estrutura do site
+- style.css: estilos e responsividade
+- script.js: menu mobile e ano automático
+
+Como abrir no VS Code:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta portfolio_heloa_joao no Visual Studio Code.
+3. Abra index.html no navegador. Se tiver a extensão Live Server, clique com o botão direito no index.html e escolha "Open with Live Server".
+
+Personalização:
+- Substitua os projetos de exemplo por projetos reais.
+- Ajuste as habilidades e as barras ilustrativas.
+- Troque contato@exemplo.com pelo e-mail correto no index.html.
+- As fontes do Google Fonts precisam de conexão com a internet; o site continua funcionando sem elas.
